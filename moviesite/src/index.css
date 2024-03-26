@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+:root{
+    --font-family: "Outfit";
+    --color-text:white;
+    --background: #000;
+    --buttonC:linear-gradient(90deg, rgba(13,104,237,0.8687850140056023) 7%, rgba(8,48,224,0.8183648459383753) 46%, rgba(178,8,224,0.8603816526610644) 89%);
+    --textC:linear-gradient(90deg, rgba(13,104,237,0.8687850140056023) 7%, rgba(8,48,224,0.8183648459383753) 46%, rgba(178,8,224,0.8603816526610644) 89%);
+}
